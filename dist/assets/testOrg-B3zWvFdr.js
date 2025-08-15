@@ -1,0 +1,1 @@
+import{_ as e,c,g as t}from"./index-QtkV09bq.js";const s={},o={class:"content-body"};function n(r,_){return t(),c("div",o," resc ")}const d=e(s,[["render",n],["__scopeId","data-v-9386f6a9"]]);export{d as default};
